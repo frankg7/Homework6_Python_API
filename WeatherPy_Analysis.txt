@@ -2,6 +2,6 @@ Three observable trends of our WeatherPy exercise.
 
 1.  Temperatures were the highest in cities located around the equator (0 Latitude).  As expected the lowest temperatures were observed in cities further from the equator.
 
-2.  Humidity levels look to be evenly distrubuted among both southern and northern hemispheres. Lowest humidty levels were collected among cities furthest away from the equator.
+2.  Humidity and cloudiness look to be evenly distrubuted among both hemispheres. Highest and lowest humidty and cloudiness levels were evenly distrubuted across the latitudal range and mirrored each hemisphere. (0, 90 latitude)
 
-3.  Wind speed and cloudiness look to be evenly distrubuted among both hemispheres.  Highest wind speed and cloudines levels were observed the furtherst away from the equator.
+3.  Wind speed appeared to be consistent between the northern and southern hemishere. Highest wind speed were observed the furtherst away from the equator.  (Closer to -90, and 90)
